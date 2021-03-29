@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>release_vinod</id>
-			<url>http://3.135.214.10:8081/repository/release_vinod/</url>
+			<id>package</id>
+			<url>http://3.135.214.10:8081/repository/package/</url>
 		</repository>
 		<snapshotRepository>
-			<id>snapshot_vonod</id>
-			<url>http://3.135.214.10:8081/repository/snapshot_vonod/</url>
+			<id>snapshot</id>
+			<url>http://3.135.214.10:8081/repository/snapshot/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
