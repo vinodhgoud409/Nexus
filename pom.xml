@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>maven-releases</id>
-			<url>http://54.174.178.84:8081/repository/maven-releases/</url>
+			<id>release_vinod</id>
+			<url>http://3.135.214.10:8081/repository/release_vinod/</url>
 		</repository>
 		<snapshotRepository>
-			<id>Maven-snapshot</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-snapshot/</url>
+			<id>snapshot_vonod</id>
+			<url>http://3.135.214.10:8081/repository/snapshot_vonod/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
